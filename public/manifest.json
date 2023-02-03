@@ -1,0 +1,8 @@
+{
+  "name": "apps",
+  "short_name": "apps",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
